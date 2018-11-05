@@ -56,11 +56,5 @@ vuejs,
 vue-router,
 vue-cli,
 webpack,
-Es6,
-
-
-##感谢
-
-感谢蘑菇街
-感谢尤大,感谢Vuejs
+Es6
 
